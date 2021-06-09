@@ -1,9 +1,5 @@
 from SwichCase import Swich
 
-
-
-
-
 while(True):
     inp = input("Digite um nome: ")
     s = Swich(inp.lower())
